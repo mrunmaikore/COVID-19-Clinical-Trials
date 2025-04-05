@@ -13,8 +13,6 @@ Python: Pandas, NumPy, Matplotlib, Seaborn, WordCloud, Squarify
 
 Google Colab: Data cleaning, EDA, and visualization
 
-Power BI: Interactive dashboard with slicers, drill-through, and tooltips
-
 📊 Key Analyses
 Univariate Analysis:
 
@@ -44,11 +42,6 @@ Sharp spike in trials from March–July 2020 indicating rapid research response.
 COVID-19, pneumonia, and respiratory-related conditions were most studied.
 
 Fewer pediatric trials, likely due to ethical limitations and safety concerns.
-
-📈 Power BI Dashboard
-Designed an interactive dashboard highlighting trial statuses, study phases, country-wise distribution, and outcome measures.
-
-Enabled dynamic filtering with slicers, tooltips, and drill-through pages.
 
 🚀 Future Improvements
 Integrate geographic visualizations (map-based insights)
